@@ -3,3 +3,11 @@
     text-align: justify;
     margin: 0 auto;
 }
+
+.bigquote{
+    width: 28em;
+    text-align: justify;
+    font-style: italic;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
